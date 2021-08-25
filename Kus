@@ -7,7 +7,7 @@ $ apt install git
 $ git clone https://github.com/reyspeed/Pulsa
 $ cd Pulsa
 $ ls
-$ chmod +x *
+$ chmod +x Tsel.sh
 $ ls
 $ sh Pulsa.sh
 
