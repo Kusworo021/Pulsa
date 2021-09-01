@@ -1,0 +1,12 @@
+$apt update
+$apt upgrade
+$apt install php
+$apt install toilet
+$apt install git
+$git clone https://github.com/reyspeed/pulsa
+$cd pulsa
+$chmod +x*
+$python2 pulsa.py
+
+
+😁😁😁😁😁
